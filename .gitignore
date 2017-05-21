@@ -32,5 +32,6 @@ _ReSharper*/
 packages/
 env/
 whl/
+result/
 .vscode/
 *.npz

@@ -8,5 +8,4 @@ protobuf==3.3.0
 pyparsing==2.2.0
 python-dateutil==2.6.0
 pytz==2017.2
-scipy==0.19.0
 six==1.10.0
