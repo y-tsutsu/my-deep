@@ -72,7 +72,7 @@ def check_draw_digit(train_iter):
 
 def do_training(train_iter, test_iter, model, optimizer, model_file_name):
     ''' 学習 '''
-    epoch = 2
+    epoch = 100
     out = 'result'
 
     # Set up a trainer
